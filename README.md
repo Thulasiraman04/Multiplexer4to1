@@ -44,7 +44,8 @@ output y;
 assign y=s1 ?(s0?d:c):(s0?b:a);
 endmodule
 # output
-![image](https://github.com/Thulasiraman04/Multiplexer4to1/assets/161105890/d78892cd-05a9-4247-8cb5-f8ef378673a9)
+[image](https://github.com/Thulasiraman04/Multiplexer4to1/assets/161105890/6efd2fd5-7331-442b-8fda-50fb368732ee)
+
 
 # Result
 Hence the result and output is verified.
